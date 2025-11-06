@@ -1,9 +1,10 @@
-def word_count (sentence):
-    word=sentence.split()
-    count=len(word)
+def count_word(sentence):
+    count=1
+    for ch in sentence:
+        if ch==" ":
+            count=count+1
     return count
-
-sentence=input("enter sentence")
-a=word_count(sentence)
-print ("no. of words =",a)
     
+sentence=input("Enter a sentence")
+n=count_word(sentence)
+print("no. of words=",n)
