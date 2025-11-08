@@ -9,7 +9,7 @@ public class KUMARISONALIUPADHYAY_6606175 {
  scan.close();
  }
  private static int countwords(String sentence) {
-    //if this is empty 
+    //if this is empty....
   if(sentence ==null || sentence.isEmpty()){
     return 0;
   }
@@ -17,12 +17,12 @@ public class KUMARISONALIUPADHYAY_6606175 {
   boolean insidedata =false;
   for(int i=0;i<sentence.length();i++){
     char ch = sentence.charAt(i);
-    //if there is no space
+    //if there is no space....
   if (ch != ' ' && !insidedata) {
         insidedata = true;
         count++;
     }
-    //if there is space
+    //if there is space....
     else if( ch==' '){
         insidedata= false;
     }
