@@ -32,6 +32,10 @@ Welcome to the **Daily Questions** section of DailyByte! This is your central hu
 |-----|------|--------------|------------|--------|--------|
 | 1 | Nov 2 | [SpOoKy~CaSe](./11-04-2025.md) | 🟢 Easy | String Manipulation | 🔓 Open |
 | 2 | Nov 5 | [Word Counter](./11-05-2025.md) | 🟢 Easy | String Manipulation | 🔓 Open |
+| 3 | Nov 6 | [Armstrong Number](./11-06-2025.md) | 🟢 Easy | Math & Logic | 🔓 Open |
+| 4 | Nov 7 | [Palindrome String](./11-07-2025.md) | 🟢 Easy | String Manipulation | 🔓 Open |
+| 5 | Nov 8 | [Nth Fibonacci Term](./11-08-2025.md) | 🟢 Easy | Math & Recursion | 🔓 Open |
+| 6 | Nov 9 | [Decimal to Binary](./11-09-2025.md) | 🟢 Easy | Math & Bit Manipulation | 🔓 Open |
 
 ### Coming Soon
 - More exciting problems are on the way!

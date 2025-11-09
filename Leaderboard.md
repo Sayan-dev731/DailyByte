@@ -3,8 +3,8 @@
 <div align="center">
 
 ![Leaderboard](https://img.shields.io/badge/DailyByte-Leaderboard-gold?style=for-the-badge)
-![Updated](https://img.shields.io/badge/Updated-Nov_05_2025-brightgreen?style=for-the-badge)
-![Active](https://img.shields.io/badge/Active_Contributors-3-blue?style=for-the-badge)
+![Updated](https://img.shields.io/badge/Updated-Nov_07_2025-brightgreen?style=for-the-badge)
+![Active](https://img.shields.io/badge/Active_Contributors-4-blue?style=for-the-badge)
 
 </div>
 
@@ -31,10 +31,10 @@ Each submission is evaluated on:
 
 <div align="center">
 
-### 🥇 Top Performer: amujjawalgupta
-**Score: 88/100** | Grade: B+ | Language: Python
+### 🥇 Top Performer: gopal0410
+**Score: 97/100** | Grade: A+ | Language: Java
 
-*Congratulations on achieving the highest score for 11-04-2025!*
+*Congratulations on achieving the highest score for 11-05-2025!*
 
 </div>
 
@@ -44,20 +44,21 @@ Each submission is evaluated on:
 
 | Rank | Contributor | Total Points | Problems | Avg Score | Best Score | Tier | Badge |
 |:----:|-------------|:------------:|:--------:|:---------:|:----------:|:----:|:-----:|
-| 🥇 | [amujjawalgupta](https://github.com/amujjawalgupta) | 88 | 1 | 88.0 | 88 | 🥈 Silver | ⚡ |
-| 🥈 | [KUMARISONALIUPADHYAY](https://github.com/KUMARISONALIUPADHYAY) | 76 | 1 | 76.0 | 76 | 🥈 Silver | 📝 |
-| 🥉 | [PiyushK2111](https://github.com/PiyushK2111) | 72 | 1 | 72.0 | 72 | 🥉 Bronze | 📝 |
+| 🥇 | [gopal0410](https://github.com/gopal0410) | 97 | 1 | 97.0 | 97 | 🥇 Gold | 📚 |
+| 🥈 | [amujjawalgupta](https://github.com/amujjawalgupta) | 173 | 2 | 86.5 | 88 | 🥈 Silver | ⚡ |
+| 🥉 | [PiyushK2111](https://github.com/PiyushK2111) | 155 | 2 | 77.5 | 83 | 🥈 Silver | 📝 |
+| 4 | [KUMARISONALIUPADHYAY](https://github.com/KUMARISONALIUPADHYAY) | 76 | 1 | 76.0 | 76 | 🥈 Silver | 📝 |
 
 ---
 
 ## 📈 Statistics
 
-- **Total Submissions:** 3
-- **Active Contributors:** 3
-- **Average Score:** 78.7/100
-- **Highest Single Score:** 88/100
+- **Total Submissions:** 6
+- **Active Contributors:** 4
+- **Average Score:** 83.5/100
+- **Highest Single Score:** 97/100
 - **Perfect Scores:** 0
-- **Languages Used:** Python (1), Java (2)
+- **Languages Used:** Python (2), Java (4)
 
 ---
 
@@ -84,24 +85,48 @@ Each submission is evaluated on:
 
 ---
 
+### November 5, 2025 - Word Counter (Easy)
+
+| Rank | Contributor | Correctness | Code Quality | Efficiency | Documentation | Timeliness | **Total** |
+|:----:|-------------|:-----------:|:------------:|:----------:|:-------------:|:----------:|:---------:|
+| 🥇 | gopal0410 | 40/40 ✅ | 23/25 ⭐ | 20/20 ✅ | 9/10 ⭐ | 5/5 ✅ | **97/100** |
+| 🥈 | amujjawalgupta | 40/40 ✅ | 20/25 ⭐ | 18/20 ⭐ | 2/10 ⚠️ | 5/5 ✅ | **85/100** |
+| 🥉 | PiyushK2111 | 40/40 ✅ | 18/25 ⭐ | 20/20 ✅ | 0/10 ❌ | 5/5 ✅ | **83/100** |
+
+#### Test Results Summary:
+- **gopal0410**: 7/7 tests passed ✅ (Java) - Implemented 2 approaches!
+- **amujjawalgupta**: 7/7 tests passed ✅ (Python)
+- **PiyushK2111**: 7/7 tests passed ✅ (Java)
+
+#### Key Insights:
+- ✅ Perfect correctness rate - all submissions passed all tests!
+- ✅ All submissions were on time
+- 🌟 gopal0410 implemented TWO different approaches (split & space counting)
+- 🎯 Documentation is still the weakest area overall
+- ⭐ Excellent improvement in code quality from previous problem
+
+---
+
 ## 🎤 Top Performer Spotlight
 
-### 🌟 Featuring: amujjawalgupta
+### 🌟 Featuring: gopal0410
 
-**Problem:** SpOoKy~CaSe (11-04-2025)  
-**Score:** 88/100 (B+)  
-**Language:** Python
+**Problem:** Word Counter (11-05-2025)  
+**Score:** 97/100 (A+)  
+**Language:** Java
 
 **Strengths:**
 - ✅ Perfect correctness - all test cases passed
-- ✅ Optimal time complexity O(n)
-- ✅ Clean, readable code
-- ✅ Proper edge case handling
+- ✅ Implemented TWO different approaches showing deep understanding
+- ✅ Excellent documentation with comprehensive header comments
+- ✅ Addressed the follow-up question about not using split()
+- ✅ Optimal time and space complexity for both approaches
 
 **What we can learn:**
-- Elegant use of boolean flags for alternating states
-- Clear variable naming and logical flow
-- Comprehensive test case coverage
+- How to implement multiple solutions to demonstrate understanding
+- Proper documentation with complexity analysis for each approach
+- Clean method separation and reusable code structure
+- Thoughtful consideration of space-time tradeoffs
 
 **The #1 contributor will be invited to explain their solution in the next team meeting!**
 
@@ -131,14 +156,15 @@ This is a great opportunity to:
 
 Based on your performance, you can earn:
 
-- **🥇 Gold Tier** - 90+ average score
-- **🥈 Silver Tier** - 75-89 average score *(amujjawalgupta, KUMARISONALIUPADHYAY)*
-- **🥉 Bronze Tier** - 60-74 average score *(PiyushK2111)*
+- **🥇 Gold Tier** - 90+ average score *(gopal0410)*
+- **🥈 Silver Tier** - 75-89 average score *(amujjawalgupta, PiyushK2111, KUMARISONALIUPADHYAY)*
+- **🥉 Bronze Tier** - 60-74 average score
 - **📝 Participant** - Below 60 average
 
 ### 🎖️ Special Badges Earned
 
 - **⚡ Speed Demon** - amujjawalgupta (Perfect correctness on first submission)
+- **📚 Documentation Master** - gopal0410 (Excellent documentation with multiple approaches)
 
 ### 🎯 Badges Available
 
@@ -155,20 +181,21 @@ Based on your performance, you can earn:
 
 | Category | Average | Best | Needs Work |
 |----------|---------|------|------------|
-| Correctness | 37.3/40 (93%) | ✅ All strong | Edge cases |
-| Code Quality | 18.0/25 (72%) | ⭐ Good | Documentation needed |
-| Efficiency | 16.7/20 (83%) | ⭐ Good | StringBuilder (Java) |
-| Documentation | 1.7/10 (17%) | ❌ **Critical** | All need improvement |
-| Timeliness | 5.0/5 (100%) | ✅ Perfect | Keep it up! |
+| Correctness | 39.3/40 (98%) | ✅ Excellent | Keep it up! |
+| Code Quality | 19.5/25 (78%) | ⭐ Good | Naming & structure |
+| Efficiency | 18.8/20 (94%) | ✅ Excellent | Outstanding! |
+| Documentation | 3.3/10 (33%) | ⚠️ **Improving** | Still critical area |
+| Timeliness | 5.0/5 (100%) | ✅ Perfect | Amazing! |
 
 ### Key Takeaways:
-1. 🎯 **Excellent punctuality** - All submissions were on time!
-2. ⚠️ **Documentation is critical** - This is the weakest area across all submissions
-3. 💡 **Focus areas for next problem:**
-   - Add header comments with problem name, complexity analysis
-   - Include inline comments explaining logic
-   - Add function/method documentation
-4. 🚀 **Strong problem-solving** - Good correctness rates overall
+1. 🎯 **Perfect punctuality** - All submissions continue to be on time!
+2. 📈 **Huge improvement in correctness** - 100% perfect correctness rate!
+3. ⭐ **Documentation is improving** - Average increased from 17% to 33%
+4. 💡 **Focus areas for next problem:**
+   - Continue adding comprehensive header comments
+   - Include complexity analysis in all solutions
+   - Add inline comments for complex logic
+5. 🚀 **Excellent efficiency** - Almost perfect scores across the board!
 
 ---
 
@@ -198,7 +225,7 @@ Remember:
 **Every problem solved is progress.**
 
 ### 📊 Next Problem Release
-**Date:** November 5, 2025  
+**Date:** November 6, 2025  
 **Time:** Check Daily-Questions folder  
 **Deadline:** 24 hours from release
 
@@ -210,6 +237,6 @@ Remember:
 
 ---
 
-*Last Updated: November 5, 2025*  
-*Problem Evaluated: 11-04-2025 - SpOoKy~CaSe*  
+*Last Updated: November 7, 2025*  
+*Problem Evaluated: 11-05-2025 - Word Counter*  
 *Maintained by DailyByte Community*
