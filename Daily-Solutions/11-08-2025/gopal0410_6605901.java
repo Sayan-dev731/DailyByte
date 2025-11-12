@@ -47,6 +47,9 @@ public class gopal0410_6605901 {
         if (n == 0) { //Checks if the user input is 0.
             return 0;
         }
+        if(n == 1){
+            return 1;
+        }
         int first = 0, second = 1;
         int sum = 0;
         //Here the for loop runs from 2 as we already know the 0th and 1st term of the fibonacci series which are stored in variables: first, and second.
