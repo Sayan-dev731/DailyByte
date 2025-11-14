@@ -36,7 +36,7 @@ public class gopal0410_6605901 {
         if (sentence.charAt(0) == ' ') {
             count--;
         }
-        for (int i = 1; i < sentence.length() - 1; i++) {
+        for (int i = 0; i < sentence.length() - 1; i++) {
             if (sentence.charAt(i) == ' ') {
                 if (sentence.charAt(i + 1) == ' ') { //This checks if the next character is also a space. This ensures that the result for sentences with multiple spaces leads to a correct result.
                     continue;
